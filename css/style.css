@@ -112,7 +112,7 @@ hr.star-primary:after {
     border-radius: 0!important;
 }
 .border-yellow {
-    border-color: #1abc9c!important;
+    border-color: #310000!important;
 }
 .border-white {
     border-color: #FFF!important;
@@ -143,9 +143,9 @@ hr.star-primary:after {
     border-color: #ECA928!important;
 }
 .bg-green {
-    background: #1abc9c!important;
+    background: #310000!important;
     color: #ffffff!important;
-    border-color: #1abc9c!important;
+    border-color: #310000!important;
 }
 .bg-aspalt {
     background: #2c3e50!important;
@@ -173,7 +173,7 @@ hr.star-primary:after {
     border-color: #e3536e!important;
 }
 .text-title {
-    color: #1abc9c;
+    color: #310000;
 }
 .panel-pink {
     border-color: #e3536e;
