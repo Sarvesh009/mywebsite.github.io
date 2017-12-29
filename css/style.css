@@ -193,7 +193,7 @@ hr.star-primary:after {
     text-transform: capitalize!important;
     color: #222!important;
     position: relative;
-    font-family: 'Mrs Sheppards', cursive!important;
+    font-family: 'Mrs Sheppards'!important;
     right: -25px;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
